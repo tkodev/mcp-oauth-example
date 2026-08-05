@@ -12,3 +12,6 @@ dist/
 .agents/settings.json
 .agents/settings.local.json
 .agents/worktrees/
+
+# Agent tooling - machine-local state, not shared config
+/.claude/
