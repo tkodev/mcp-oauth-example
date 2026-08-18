@@ -1,4 +1,4 @@
-# mcp-oauth-example
+# Agent Instructions
 
 Reference MCP server showing **OAuth 2.1 protected Streamable HTTP transport** —
 the remote-MCP auth pattern (bearer tokens, no stdio/local secrets). This server
